@@ -1,0 +1,16 @@
+# Переменные среды
+.env
+
+# Виртуальная среда
+.venv/
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Файл базы данных
+*.db
+*.db-journal 
