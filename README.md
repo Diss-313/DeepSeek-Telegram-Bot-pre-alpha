@@ -1,4 +1,4 @@
-# DeepSeek Telegram Chat Bot
+# DeepSeek Telegram Bot
 
 Telegram-бот для общения с LLM DeepSeek с сохранением истории диалога.
 
@@ -11,8 +11,8 @@ Telegram-бот для общения с LLM DeepSeek с сохранением 
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/Diss-313/Test_bot_v1.git
-cd Test_bot_v1
+git clone https://github.com/Diss-313/DeepSeek-Telegram-Bot-pre-alpha
+cd DeepSeek-Telegram-Bot-pre-alpha
 ```
 
 2. Установка зависимостей:
@@ -27,7 +27,7 @@ DEEPSEEK_API_KEY = api_ключ
 ```
 # Опционально:
 ```bash
-MODEL_NAME = deepseek-chat
+MODEL_NAME = ...
 SYSTEM_PROMPT = ...
 MAX_HISTORY = 10
 DB_NAME = my_chat.db
