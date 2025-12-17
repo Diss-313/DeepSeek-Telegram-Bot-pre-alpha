@@ -1,6 +1,6 @@
 # DeepSeek Telegram Bot
 
-Telegram-бот для общения с LLM DeepSeek с сохранением истории диалога.
+Telegram-бот для общения с LLM DeepSeek с сохранением истории диалога
 
 ## Требования
 - Python 3.11+
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 TELEGRAM_BOT_TOKEN = токен_бота
 DEEPSEEK_API_KEY = api_ключ
 ```
-# Опционально:
+## Опционально:
 ```bash
 MODEL_NAME = ...
 SYSTEM_PROMPT = ...
